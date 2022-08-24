@@ -1,2 +1,4 @@
-# JS-input-value
+# JS input value
 Small demo of JS input value usage
+
+![](Demo.gif)
